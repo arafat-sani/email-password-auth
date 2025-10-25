@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "thumbnail": "https://i.ibb.co/4FrRbQv/toy1.jpg",
+    "toyName": "Robo Car",
+    "rating": 4.8,
+    "availableQuantity": 12,
+    "price": 25,
+    "description": "A futuristic robotic car that can move autonomously and respond to remote commands. Perfect for kids who love tech and gadgets."
+  },
+  {
+    "id": 2,
+    "thumbnail": "https://i.ibb.co/yf2hCvW/toy2.jpg",
+    "toyName": "Teddy Bear",
+    "rating": 4.5,
+    "availableQuantity": 8,
+    "price": 18,
+    "description": "A soft and cuddly teddy bear, ideal for hugs, bedtime comfort, and imaginative play. Suitable for all ages."
+  },
+  {
+    "id": 3,
+    "thumbnail": "https://i.ibb.co/M2vZ9Xv/toy3.jpg",
+    "toyName": "Lego Castle",
+    "rating": 5.0,
+    "availableQuantity": 20,
+    "price": 40,
+    "description": "Build your own magical castle with this colorful Lego set. Encourages creativity, problem-solving, and hours of fun."
+  },
+  {
+    "id": 4,
+    "thumbnail": "https://i.ibb.co/n7mYg8y/toy4.jpg",
+    "toyName": "Super Drone",
+    "rating": 4.6,
+    "availableQuantity": 10,
+    "price": 65,
+    "description": "A high-performance drone with easy controls, ideal for aerial adventures and capturing stunning photos and videos."
+  },
+  {
+    "id": 5,
+    "thumbnail": "https://i.ibb.co/ZzMg1FC/toy5.jpg",
+    "toyName": "Mini Robot",
+    "rating": 4.3,
+    "availableQuantity": 15,
+    "price": 30,
+    "description": "A small, interactive robot toy that can move, light up, and perform simple tasks. Great for learning basic robotics."
+  },
+  {
+    "id": 6,
+    "thumbnail": "https://i.ibb.co/F8QG6Zf/toy6.jpg",
+    "toyName": "Magic Train",
+    "rating": 4.9,
+    "availableQuantity": 5,
+    "price": 45,
+    "description": "A whimsical train set that lights up and moves magically along its track. Perfect for imaginative train adventures."
+  },
+  {
+    "id": 7,
+    "thumbnail": "https://i.ibb.co/NKqvN5S/toy7.jpg",
+    "toyName": "Dinosaur Figure",
+    "rating": 4.7,
+    "availableQuantity": 25,
+    "price": 22,
+    "description": "A highly detailed dinosaur figure, perfect for prehistoric play and educational fun. Sparks curiosity about dinosaurs."
+  },
+  {
+    "id": 8,
+    "thumbnail": "https://i.ibb.co/Tvp7CLV/toy8.jpg",
+    "toyName": "Building Blocks Set",
+    "rating": 4.9,
+    "availableQuantity": 30,
+    "price": 35,
+    "description": "A versatile building block set that encourages creativity and problem-solving. Endless possibilities for constructing fun shapes."
+  },
+  {
+    "id": 9,
+    "thumbnail": "https://i.ibb.co/Fm1CBZv/toy9.jpg",
+    "toyName": "RC Helicopter",
+    "rating": 4.4,
+    "availableQuantity": 9,
+    "price": 50,
+    "description": "A remote-controlled helicopter that flies smoothly indoors and outdoors. Great for aspiring pilots and adventure seekers."
+  },
+  {
+    "id": 10,
+    "thumbnail": "https://i.ibb.co/h8FSHg2/toy10.jpg",
+    "toyName": "Stuffed Bunny",
+    "rating": 4.5,
+    "availableQuantity": 16,
+    "price": 20,
+    "description": "A soft and adorable bunny plush, perfect for cuddling, comforting, and imaginative storytelling."
+  },
+  {
+    "id": 11,
+    "thumbnail": "https://i.ibb.co/fxF6xKk/toy11.jpg",
+    "toyName": "Police Car",
+    "rating": 4.6,
+    "availableQuantity": 14,
+    "price": 28,
+    "description": "A realistic police car toy with lights and sirens. Perfect for imaginative role-playing and action-packed adventures."
+  },
+  {
+    "id": 12,
+    "thumbnail": "https://i.ibb.co/g9VjNQ9/toy12.jpg",
+    "toyName": "Puzzle Cube",
+    "rating": 4.8,
+    "availableQuantity": 50,
+    "price": 12,
+    "description": "A challenging puzzle cube to sharpen problem-solving skills and improve hand-eye coordination. Fun for all ages."
+  },
+  {
+    "id": 13,
+    "thumbnail": "https://i.ibb.co/Dz5zrv9/toy13.jpg",
+    "toyName": "Barbie Doll",
+    "rating": 4.7,
+    "availableQuantity": 18,
+    "price": 32,
+    "description": "A stylish Barbie doll with accessories. Encourages imaginative play and storytelling adventures."
+  },
+  {
+    "id": 14,
+    "thumbnail": "https://i.ibb.co/KGg5YjR/toy14.jpg",
+    "toyName": "Race Track Set",
+    "rating": 4.9,
+    "availableQuantity": 7,
+    "price": 55,
+    "description": "An exciting race track set with loops and fast cars. Perfect for competitive play and building motor skills."
+  },
+  {
+    "id": 15,
+    "thumbnail": "https://i.ibb.co/G9DHddf/toy15.jpg",
+    "toyName": "Space Rocket",
+    "rating": 5.0,
+    "availableQuantity": 11,
+    "price": 60,
+    "description": "A detailed space rocket model for aspiring astronauts. Ideal for space-themed play and educational exploration."
+  },
+  {
+    "id": 16,
+    "thumbnail": "https://i.ibb.co/v13kFGg/toy16.jpg",
+    "toyName": "Toy Guitar",
+    "rating": 4.4,
+    "availableQuantity": 13,
+    "price": 27,
+    "description": "A mini guitar toy that allows kids to strum and play tunes. Encourages musical creativity and fun performances."
+  },
+  {
+    "id": 17,
+    "thumbnail": "https://i.ibb.co/mJq8Wk6/toy17.jpg",
+    "toyName": "Animal Farm Set",
+    "rating": 4.5,
+    "availableQuantity": 21,
+    "price": 34,
+    "description": "A fun farm set with detailed animal figures. Encourages imaginative play and helps kids learn about farm life."
+  },
+  {
+    "id": 18,
+    "thumbnail": "https://i.ibb.co/B6CDxRj/toy18.jpg",
+    "toyName": "Musical Drum Set",
+    "rating": 4.7,
+    "availableQuantity": 8,
+    "price": 38,
+    "description": "A mini drum set that lets kids explore rhythms and beats. Perfect for budding musicians and interactive play."
+  },
+  {
+    "id": 19,
+    "thumbnail": "https://i.ibb.co/5WjCw2Z/toy19.jpg",
+    "toyName": "Magic Wand",
+    "rating": 4.2,
+    "availableQuantity": 27,
+    "price": 15,
+    "description": "A magical wand toy to cast imaginary spells and perform fun tricks. Sparks creativity and imaginative play."
+  },
+  {
+    "id": 20,
+    "thumbnail": "https://i.ibb.co/FhNfNPh/toy20.jpg",
+    "toyName": "Toy Soldier Pack",
+    "rating": 4.6,
+    "availableQuantity": 40,
+    "price": 19,
+    "description": "A set of toy soldiers for action-packed battles and creative storytelling. Encourages strategic thinking and imaginative play."
+  }
+]
